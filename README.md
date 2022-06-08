@@ -3,6 +3,11 @@ This project demonstrates how music notes can be extracted from audio. The proje
 The /data folder cointains music files and samples needed to run the example. 
 Please make sure the Minim library is installed.
 
+### Preview:
+
+<img width="300px" src="examples/preview1.jpg" />  &emsp; <img width="300px" src="examples/preview1.jpg" />
+
+
 
 How to run the example:
 
