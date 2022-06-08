@@ -28,6 +28,7 @@ float [][] originalNotes;
 float [][] harmonizedNotes;
 
 
+
 PImage framesImg;          //used to display the analysis frames
 PImage notesImg;           //used to display the notes
 
