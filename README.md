@@ -5,7 +5,7 @@ Please make sure the Minim library is installed.
 
 ### Preview:
 
-<img width="300px" src="Music_Feature_Extraction/preview/preview1.jpg" />  &emsp; <img width="300px" src="Music_Feature_Extraction/preview/preview1.jpg" />
+<img width="300px" src="preview/preview1.jpg" />  &emsp; <img width="300px" src="preview/preview1.jpg" />
 
 
 
